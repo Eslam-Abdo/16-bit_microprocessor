@@ -26,9 +26,9 @@ You need `proteus verision > 8` to open Simulation file
 
 I built a programmable 16-bit computer using only simple logic gates. The 16-bit computer is just able to add and subtract.
 
-![](PROSSECOR.png)
+![](PDF/PROSSECOR.png)
 
-![](screen\prcessor.png)
+![](screen/prcessor.png)
 
 # **Clock module :**
 
