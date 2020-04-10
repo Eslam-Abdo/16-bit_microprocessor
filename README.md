@@ -160,3 +160,7 @@ CPU will do that before every next steps so make them as a function and name it 
 | IO MI | IO  MI | AO  OI |
 | RO AI | RO BI | |
 |   | EO  AI |   |
+
+# Hardware Try
+
+![](processor_hardware.jpg)
